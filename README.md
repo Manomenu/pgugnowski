@@ -1,8 +1,7 @@
 # 👋 Piotr Maniumek Gugnowski 👋
-A passionate AI for Psychology engineer.
+
   * 🌱 Currently learning basics of machine learning.
-  * 🔭 Currently developing RWD version of web application.
-  * 💬 Ask me about Machine Learning and Web Development.
+  * 🔭 Developing RWD version of web application.
  
 Connect me with:
 (here)
