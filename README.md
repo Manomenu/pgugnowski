@@ -1,14 +1,11 @@
 # 👋 Piotr Maniumek Gugnowski 👋
 
-  * 🌱 Currently learning basics of machine learning.
-  * 🔭 Developing RWD version of web application.
+  * 🔭 Developing website for church.
  
 Connect me with:
-(here)
+gugnowski@gmail.com
 
-Languages and Tools:
-python  pandas linux
-
-c cplusplus javascript
-
-matlab csharp angular
+Favourite tools:
+Backend: C# (.NET, EntityFrameworkCore, AspNetCore)
+FrontEnd: Angular
+Database: Postgres, MS SQL Server
