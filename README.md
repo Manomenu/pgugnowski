@@ -5,8 +5,7 @@
  
 Connect me with:
 
-gugnowski@gmail.com
-
+piterekgu@onet.pl
 
 Favourite tools:
 
